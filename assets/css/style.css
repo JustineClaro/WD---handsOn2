@@ -60,6 +60,27 @@ body {
 }
 
 
+.home-button{
+
+    position: absolute;
+    top: 7%;
+    left: 9%;
+}
+
+.home-button a{
+    color: pink;
+    font-size: 2rem;
+    transition: ease 0.3s;
+}
+
+.home-button a:hover{
+    color: white;
+    text-shadow: white 2px;
+    text-shadow: pink;
+
+}
+
+
 
 
 .info{
